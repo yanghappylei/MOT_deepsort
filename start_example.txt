@@ -1,0 +1,1 @@
+ python main.py --config_file=./config/flow_config_example.json  --place_id=48 --camera_id=64 --enable_debug=1
